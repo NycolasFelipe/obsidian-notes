@@ -1,0 +1,205 @@
+{
+  "nodePositions": [
+    {
+      "id": "Asynchronous JavaScript/AJAX Requests.md",
+      "x": -142.34396362304688,
+      "y": -329.74017333984375
+    },
+    {
+      "id": "JavaScript/JavaScript.md",
+      "x": -234.20932006835938,
+      "y": -485.9639587402344
+    },
+    {
+      "id": "Metodologia Ágil/Framework LeSS.md",
+      "x": 399.6121520996094,
+      "y": -237.6484375
+    },
+    {
+      "id": "Metodologia Ágil/Framework Nexus.md",
+      "x": 231.43727111816406,
+      "y": -119.68205261230469
+    },
+    {
+      "id": "Metodologia Ágil/Framework SAFe.md",
+      "x": 279.06805419921875,
+      "y": -230.18763732910156
+    },
+    {
+      "id": "Metodologia Ágil/Kanban.md",
+      "x": 542.4874267578125,
+      "y": -44.47237014770508
+    },
+    {
+      "id": "Metodologia Ágil/Lean Ágil.md",
+      "x": 592.2770385742188,
+      "y": -154.33587646484375
+    },
+    {
+      "id": "Metodologia Ágil/Métodos Ágeis.md",
+      "x": 472.86724853515625,
+      "y": -142.3878173828125
+    },
+    {
+      "id": "Metodologia Ágil/Scrum.md",
+      "x": 423.15478515625,
+      "y": -31.67150115966797
+    },
+    {
+      "id": "Metodologia Ágil/Ágil Escalado.md",
+      "x": 351.2055358886719,
+      "y": -127.74942016601562
+    },
+    {
+      "id": "PHP/Installing PHP.md",
+      "x": -408.85723876953125,
+      "y": 670.394775390625
+    },
+    {
+      "id": "PHP/PHP.md",
+      "x": -292.13494873046875,
+      "y": 868.4358520507812
+    },
+    {
+      "id": "PHP/Variables & Constants.md",
+      "x": -564.4769897460938,
+      "y": 688.8233642578125
+    },
+    {
+      "id": "TypeScript/Call Signature.md",
+      "x": -419.51300048828125,
+      "y": -129.36033630371094
+    },
+    {
+      "id": "TypeScript/Cheat Sheets.md",
+      "x": -393.55462646484375,
+      "y": 208.28591918945312
+    },
+    {
+      "id": "TypeScript/Classes.md",
+      "x": -384.82861328125,
+      "y": 328.1324462890625
+    },
+    {
+      "id": "TypeScript/DOM & Type Casting.md",
+      "x": -265.90985107421875,
+      "y": 355.03924560546875
+    },
+    {
+      "id": "TypeScript/Enums.md",
+      "x": 20.34151840209961,
+      "y": -55.22430419921875
+    },
+    {
+      "id": "TypeScript/Functions.md",
+      "x": -285.4049377441406,
+      "y": -106.41578674316406
+    },
+    {
+      "id": "TypeScript/Generic Object Types.md",
+      "x": 115.87336730957031,
+      "y": 87.50584411621094
+    },
+    {
+      "id": "TypeScript/Interfaces.md",
+      "x": -300.4027099609375,
+      "y": 118.29096221923828
+    },
+    {
+      "id": "TypeScript/Object Types.md",
+      "x": -12.478622436523438,
+      "y": 233.28201293945312
+    },
+    {
+      "id": "TypeScript/Readonly Tuples.md",
+      "x": 231.06326293945312,
+      "y": 266.96331787109375
+    },
+    {
+      "id": "TypeScript/Render an HTML Template.md",
+      "x": -118.78778839111328,
+      "y": 410.1911926269531
+    },
+    {
+      "id": "TypeScript/Tuple Types.md",
+      "x": 130.20448303222656,
+      "y": 383.69354248046875
+    },
+    {
+      "id": "TypeScript/Type Aliases.md",
+      "x": -102.11942291259766,
+      "y": -62.192928314208984
+    },
+    {
+      "id": "TypeScript/Type Basics.md",
+      "x": -125.7093505859375,
+      "y": 64.88690185546875
+    },
+    {
+      "id": "TypeScript/TypeScript.md",
+      "x": -273.5132751464844,
+      "y": 235.25238037109375
+    },
+    {
+      "id": "TypeScript/Union Types.md",
+      "x": -230.6671905517578,
+      "y": 5.472879886627197
+    },
+    {
+      "id": "TypeScript/Workflow & tsconfig.md",
+      "x": -324.8659973144531,
+      "y": 459.57843017578125
+    },
+    {
+      "id": "Utilidades/DNS e Packet Loss.md",
+      "x": 389.9251403808594,
+      "y": 434.7387390136719
+    },
+    {
+      "id": "Utilidades/Disable and Enable Wireless Autoconfig.md",
+      "x": 285.85858154296875,
+      "y": 494.7631530761719
+    },
+    {
+      "id": "Webpack/Loaders.md",
+      "x": -56.94869613647461,
+      "y": -689.4618530273438
+    },
+    {
+      "id": "Webpack/Style Loader.md",
+      "x": -153.7272491455078,
+      "y": -618.2586669921875
+    },
+    {
+      "id": "Webpack/TypeScript + Webpack.md",
+      "x": 26.41813850402832,
+      "y": -367.370361328125
+    },
+    {
+      "id": "Webpack/Webpack Config.md",
+      "x": -21.9903564453125,
+      "y": -567.8631591796875
+    },
+    {
+      "id": "Webpack/Webpack.md",
+      "x": -99.82597351074219,
+      "y": -476.0521240234375
+    },
+    {
+      "id": "React/Notas.md",
+      "x": -890.5311889648438,
+      "y": -319.99774169921875
+    },
+    {
+      "id": "React/React.md",
+      "x": -844.7158813476562,
+      "y": -175.73646545410156
+    },
+    {
+      "id": "React/Full ecommerce website.md",
+      "x": -700.982421875,
+      "y": -294.5924072265625
+    }
+  ],
+  "automaticallyRestoreNodePositions": true
+}

@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "2ca26e3c8144821d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5c9375facf79185",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3727d6357467beb",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/Notas.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "dedc04d56181732f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3b898d618d09858e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b67ed206e47ef7b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4215bec55c581a8b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d0e9ad58ea187f1d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "162788c083581251",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 286.5
+  },
+  "right": {
+    "id": "26be158f40b17654",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f44a8332afebbe7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de7014cfa6b5d076",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "React/Notas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d53625fcb64b9135",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "React/Notas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4f3952099e323cd2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d06c85c03c53c6e3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "React/Notas.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": true,
+      "daily-notes:Abrir a nota de hoje": true,
+      "templates:Inserir modelo": true,
+      "command-palette:Abrir paleta de comandos": false,
+      "random-note:Abrir nota aleatória": true,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "dedc04d56181732f",
+  "lastOpenFiles": [
+    "React/Notas.md",
+    "React/Imagens/Pasted image 20240507205900.png",
+    "React/Imagens/Pasted image 20240507203302.png",
+    "React/Imagens/Pasted image 20240507202005.png",
+    "React/Imagens/Pasted image 20240507132941.png",
+    "React/Imagens/Pasted image 20240507132557.png",
+    "React/Imagens/Pasted image 20240507132354.png",
+    "Pasted image 20240507205824.png",
+    "Pasted image 20240507205843.png",
+    "React/React.md",
+    "React/Full ecommerce website.md",
+    "Projects/Full functional ecommerce website/Início.md",
+    "React/Imagens",
+    "React",
+    "Projects/Full functional ecommerce website/Imagens",
+    "Projects/Full functional ecommerce website",
+    "Projects",
+    "PHP/PHP.md",
+    "PHP/Installing PHP.md",
+    "PHP/Variables & Constants.md",
+    "Webpack/Loaders.md",
+    "PHP/XAMPP Control Panel.png",
+    "PHP",
+    "Tailwind/Tailwind.md",
+    "Metodologia Ágil/Framework LeSS.md",
+    "JavaScript/JavaScript.md",
+    "Asynchronous JavaScript/AJAX Requests.md",
+    "Tailwind",
+    "TypeScript/Generic Object Types.md",
+    "Webpack/TypeScript + Webpack.md",
+    "Webpack/Style Loader.md",
+    "Webpack/Webpack.md",
+    "Webpack/Webpack Config.md",
+    "JSON Merge Files.md",
+    "JavaScript",
+    "Webpack",
+    "Asynchronous JavaScript",
+    "TypeScript/Cheat Sheets.md",
+    "TypeScript/TypeScript Types.png",
+    "TypeScript/TypeScript.md",
+    "TypeScript/Tuple Types.md",
+    "TypeScript/Readonly Tuples.md",
+    "TypeScript/Object Types.md",
+    "TypeScript/Enums.md",
+    "TypeScript/Type Basics.md",
+    "Sem título 1.canvas",
+    "Sem título.canvas"
+  ]
+}
