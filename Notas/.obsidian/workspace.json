@@ -25,8 +25,24 @@
             "id": "dedc04d56181732f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "React/Notas.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7ac776c862cf6cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Minhas Notas/CSS.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ],
@@ -80,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 200
   },
   "right": {
     "id": "26be158f40b17654",
@@ -161,7 +177,13 @@
   },
   "active": "dedc04d56181732f",
   "lastOpenFiles": [
+    "React/React.md",
     "React/Notas.md",
+    "React/Full ecommerce website.md",
+    "Minhas Notas/Minhas Notas.md",
+    "Minhas Notas/CSS.md",
+    "Minhas Notas/CSS",
+    "Minhas Notas",
     "React/Imagens/Pasted image 20240507205900.png",
     "React/Imagens/Pasted image 20240507203302.png",
     "React/Imagens/Pasted image 20240507202005.png",
@@ -170,8 +192,6 @@
     "React/Imagens/Pasted image 20240507132354.png",
     "Pasted image 20240507205824.png",
     "Pasted image 20240507205843.png",
-    "React/React.md",
-    "React/Full ecommerce website.md",
     "Projects/Full functional ecommerce website/Início.md",
     "React/Imagens",
     "React",
@@ -196,16 +216,12 @@
     "Webpack/Webpack Config.md",
     "JSON Merge Files.md",
     "JavaScript",
-    "Webpack",
-    "Asynchronous JavaScript",
     "TypeScript/Cheat Sheets.md",
     "TypeScript/TypeScript Types.png",
     "TypeScript/TypeScript.md",
     "TypeScript/Tuple Types.md",
     "TypeScript/Readonly Tuples.md",
     "TypeScript/Object Types.md",
-    "TypeScript/Enums.md",
-    "TypeScript/Type Basics.md",
     "Sem título 1.canvas",
     "Sem título.canvas"
   ]

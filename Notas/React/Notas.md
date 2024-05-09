@@ -77,23 +77,3 @@ const App = () => {
  Em seguida, siga os passos descritos na aba `quickstart`
 
 ---
-# Outras notas
-## Reset Stylesheet
-```css
-* { 
-	margin: 0;
-	padding: 0; 
-	font-family: sans-serif; 
-	box-sizing: border-box; 
-}
-```
-
-Explicação linha a linha:
- - This removes any default margin that browsers might apply to elements. Setting it to 0 ensures a consistent starting point for element spacing.
- 
- - This removes any default padding that browsers might apply to elements. Setting it to 0 ensures a consistent starting point for element content placement.
- 
- - This sets the default font family for all elements to a sans-serif font. This provides a clean and modern look for the page's text.
- 
- - This changes the default way browsers calculate the width and height of elements. By default, browsers add the element's padding and border to its width and height when applying styles. Setting `box-sizing: border-box;` makes the element's width and height include its padding and border, ensuring more predictable layout behavior.
- 
