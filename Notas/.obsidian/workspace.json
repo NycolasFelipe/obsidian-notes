@@ -4,49 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b5c9375facf79185",
+        "id": "5416a3c2b697c2a3",
         "type": "tabs",
         "children": [
           {
-            "id": "d3727d6357467beb",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/Notas.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "dedc04d56181732f",
+            "id": "8db37fa9fbc191c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Notas.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c7ac776c862cf6cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Minhas Notas/CSS.md",
-                "mode": "preview",
+                "file": "MySQL/INSERT.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Notas.md",
+                "file": "MySQL/INSERT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/Notas.md",
+                "file": "MySQL/INSERT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Notas.md"
+                "file": "MySQL/INSERT.md"
               }
             }
           }
@@ -175,13 +148,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dedc04d56181732f",
+  "active": "8db37fa9fbc191c3",
   "lastOpenFiles": [
-    "React/React.md",
+    "MySQL/SELECT.md",
+    "MySQL/INSERT.md",
+    "MySQL/SQL.md",
+    "MySQL/INSERT INTO.md",
+    "MySQL/MySQL.md",
     "React/Notas.md",
+    "Sem título.md",
+    "MySQL/Imagens/Pasted image 20240509163735.png",
+    "MySQL/Imagens/Pasted image 20240509133158.png",
+    "MySQL/Imagens/Pasted image 20240509133000.png",
+    "MySQL/Imagens/Pasted image 20240509132506.png",
+    "MySQL/Imagens",
+    "TypeScript/Type Basics.md",
+    "Minhas Notas/CSS.md",
+    "TypeScript/TypeScript.md",
+    "[[SELECT]].md",
+    "MySQL",
+    "React/React.md",
     "React/Full ecommerce website.md",
     "Minhas Notas/Minhas Notas.md",
-    "Minhas Notas/CSS.md",
     "Minhas Notas/CSS",
     "Minhas Notas",
     "React/Imagens/Pasted image 20240507205900.png",
@@ -190,8 +178,6 @@
     "React/Imagens/Pasted image 20240507132941.png",
     "React/Imagens/Pasted image 20240507132557.png",
     "React/Imagens/Pasted image 20240507132354.png",
-    "Pasted image 20240507205824.png",
-    "Pasted image 20240507205843.png",
     "Projects/Full functional ecommerce website/Início.md",
     "React/Imagens",
     "React",
@@ -202,26 +188,14 @@
     "PHP/Installing PHP.md",
     "PHP/Variables & Constants.md",
     "Webpack/Loaders.md",
-    "PHP/XAMPP Control Panel.png",
     "PHP",
     "Tailwind/Tailwind.md",
     "Metodologia Ágil/Framework LeSS.md",
     "JavaScript/JavaScript.md",
     "Asynchronous JavaScript/AJAX Requests.md",
-    "Tailwind",
     "TypeScript/Generic Object Types.md",
     "Webpack/TypeScript + Webpack.md",
     "Webpack/Style Loader.md",
-    "Webpack/Webpack.md",
-    "Webpack/Webpack Config.md",
-    "JSON Merge Files.md",
-    "JavaScript",
-    "TypeScript/Cheat Sheets.md",
-    "TypeScript/TypeScript Types.png",
-    "TypeScript/TypeScript.md",
-    "TypeScript/Tuple Types.md",
-    "TypeScript/Readonly Tuples.md",
-    "TypeScript/Object Types.md",
     "Sem título 1.canvas",
     "Sem título.canvas"
   ]
