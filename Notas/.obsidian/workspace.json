@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5416a3c2b697c2a3",
+        "id": "55758468cdb3cb69",
         "type": "tabs",
         "children": [
           {
-            "id": "8db37fa9fbc191c3",
+            "id": "9f5211c64d048aa7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MySQL/INSERT.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MySQL/INSERT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MySQL/INSERT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "MySQL/INSERT.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,25 +140,31 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8db37fa9fbc191c3",
+  "active": "9f5211c64d048aa7",
   "lastOpenFiles": [
-    "MySQL/SELECT.md",
-    "MySQL/INSERT.md",
-    "MySQL/SQL.md",
+    "SQL/NULL.md",
+    "AND,OR,NOT.md",
+    "SQL/SELECT.md",
+    "SQL/SQL.md",
+    "SQL/UPDATE.md",
+    "SQL/LIKE.md",
+    "SQL/DELETE.md",
+    "SQL/INSERT.md",
+    "SQL/MySQL.md",
+    "MySQL/NULL Values.md",
     "MySQL/INSERT INTO.md",
-    "MySQL/MySQL.md",
     "React/Notas.md",
     "Sem título.md",
-    "MySQL/Imagens/Pasted image 20240509163735.png",
-    "MySQL/Imagens/Pasted image 20240509133158.png",
-    "MySQL/Imagens/Pasted image 20240509133000.png",
-    "MySQL/Imagens/Pasted image 20240509132506.png",
-    "MySQL/Imagens",
+    "SQL/Imagens/Pasted image 20240509163735.png",
+    "SQL/Imagens/Pasted image 20240509133158.png",
+    "SQL/Imagens/Pasted image 20240509133000.png",
+    "SQL/Imagens/Pasted image 20240509132506.png",
+    "SQL/Imagens",
     "TypeScript/Type Basics.md",
     "Minhas Notas/CSS.md",
     "TypeScript/TypeScript.md",
     "[[SELECT]].md",
-    "MySQL",
+    "SQL",
     "React/React.md",
     "React/Full ecommerce website.md",
     "Minhas Notas/Minhas Notas.md",
@@ -190,12 +188,6 @@
     "Webpack/Loaders.md",
     "PHP",
     "Tailwind/Tailwind.md",
-    "Metodologia Ágil/Framework LeSS.md",
-    "JavaScript/JavaScript.md",
-    "Asynchronous JavaScript/AJAX Requests.md",
-    "TypeScript/Generic Object Types.md",
-    "Webpack/TypeScript + Webpack.md",
-    "Webpack/Style Loader.md",
     "Sem título 1.canvas",
     "Sem título.canvas"
   ]
