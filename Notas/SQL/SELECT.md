@@ -72,10 +72,10 @@ Os seguintes operadores podem ser utilizados em uma cláusula `WHERE`:
 - `>=` Greater than or equal
 - `<=` Less than or equal
 - `<>` Not equal. **Nota:** Em algumas versões do SQL, esse operador será `!=`
-- `BETWEEN` Between certain range. Ex.: `WHERE Price BETWEEN 50 AND 60`
+- [`BETWEEN`](BETWEEN.md) Between certain range. Ex.: `WHERE Price BETWEEN 50 AND 60`
 - [`LIKE`](LIKE.md) Search for a pattern. Ex.: `WHERE City LIKE 's%'`
-- `IN` To specify multiple possible values for a column `WHERE City IN ('Paris','London')`
-- [`AND,OR,NOT`](AND,OR,NOT)
+- [`IN`](IN.md) To specify multiple possible values for a column `WHERE City IN ('Paris','London')`
+- [`AND,OR,NOT`](AND,OR,NOT.md)
 
 # ORDER BY
 O termo-chave `ORDER BY` é usado para **ordernar uma tabela-resultado** em ordem **ascendente ou descendente**. Uma tabela-resultado é ordenada de forma **ascendente por padrão**; para ordená-la de outra forma, utilizamos o termo `DESC`.
@@ -122,3 +122,38 @@ FROM Products;
 ```
 
 **Obs**.: **O termo "AS" no código** serve para **renomear o resultado da consulta**. Dessa forma, na saída da consulta a coluna que contém **o resultado aparecerá como "SmallestPrice"**, no primeiro caso, ou "LargestPrice", no segundo.
+
+# COUNT(), AVG() and SUM() Functions
+## COUNT()
+A função `COUNT()` **retorna o número de registros** que correspondem a um critério específico.
+
+Exemplo:
+```SQL
+SELECT COUNT(ProductID)  
+FROM Products;
+```
+
+*Exemplo de output:*
+![[Pasted image 20240510124828.png]]
+## AVG()
+A função `AVG` **retorna a média** de todos os valores encontrados.
+
+Exemplo:
+```SQL
+SELECT AVG(Price)  
+FROM Products;
+```
+
+*Exemplo de output:*
+![[Pasted image 20240510125044.png]]
+## SUM()
+A função `SUM` **retorna a soma** de todos os valores encontrados.
+
+Exemplo:
+```SQL
+SELECT SUM(Quantity)  
+FROM OrderDetails;
+```
+
+*Exemplo de output:*
+![[Pasted image 20240510125239.png]]
