@@ -1,4 +1,4 @@
-# Reset Stylesheet
+# Reset stylesheet
 ```css
 * { 
 	margin: 0;
@@ -34,5 +34,22 @@ Generate a filter for any color [here](https://isotropic.co/tool/hex-color-to-cs
 .filter-green {
     filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) 
 		brightness(118%) contrast(119%);
+}
+```
+
+# Flex space-between last item
+![[Pasted image 20240514172806.png]]
+
+Correção:
+```CSS
+.parent {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+}
+
+.parent::after {
+  content: "";
+  flex: auto;
 }
 ```

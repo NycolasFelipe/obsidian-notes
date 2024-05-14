@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "733e55386addf13b",
+        "id": "02b4b2a488f70ba7",
         "type": "tabs",
         "children": [
           {
-            "id": "13d2ef89cfc83ad8",
+            "id": "ef5b18acea8e1638",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/JavaScript.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a69743eb8f93f19e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Minhas Notas/CSS.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Minhas Notas/CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Minhas Notas/CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Minhas Notas/CSS.md"
+              }
             }
           }
         ]
@@ -140,8 +161,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "13d2ef89cfc83ad8",
+  "active": "a69743eb8f93f19e",
   "lastOpenFiles": [
+    "Minhas Notas/Minhas Notas.md",
+    "Minhas Notas/JavaScript.md",
+    "JavaScript/JavaScript.md",
+    "Webpack/Webpack.md",
+    "Asynchronous JavaScript/AJAX Requests.md",
+    "React/React.md",
+    "React/Notas.md",
+    "React/Projetos/Full ecommerce website.md",
+    "React/Projetos",
+    "Minhas Notas/CSS.md",
+    "Minhas Notas/Imagens",
+    "Minhas Notas/Imagens/Pasted image 20240514172806.png",
     "Windows/ActivateWindows.md",
     "Windows/Windows.md",
     "Windows/DNS.md",
@@ -163,31 +196,19 @@
     "SQL/LIKE.md",
     "SQL/NULL.md",
     "SQL/MySQL.md",
-    "MySQL/NULL Values.md",
-    "MySQL/INSERT INTO.md",
-    "React/Notas.md",
     "SQL/Imagens/Pasted image 20240509163735.png",
     "SQL/Imagens/Pasted image 20240509133158.png",
     "SQL/Imagens/Pasted image 20240509133000.png",
     "SQL/Imagens/Pasted image 20240509132506.png",
     "SQL/Imagens",
-    "TypeScript/Type Basics.md",
-    "Minhas Notas/CSS.md",
-    "TypeScript/TypeScript.md",
-    "[[SELECT]].md",
     "SQL",
-    "React/React.md",
-    "React/Full ecommerce website.md",
     "Minhas Notas/CSS",
     "Minhas Notas",
     "React/Imagens/Pasted image 20240507205900.png",
     "React/Imagens/Pasted image 20240507203302.png",
-    "React/Imagens/Pasted image 20240507202005.png",
     "React/Imagens",
     "React",
     "Projects/Full functional ecommerce website/Imagens",
-    "Projects/Full functional ecommerce website",
-    "Projects",
     "Sem título 1.canvas",
     "Sem título.canvas"
   ]

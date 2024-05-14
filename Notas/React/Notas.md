@@ -77,3 +77,66 @@ const App = () => {
  Em seguida, siga os passos descritos na aba `quickstart`
 
 ---
+
+# Slick slider
+Slick slider para react, [link](https://react-slick.neostack.com/docs/get-started)
+
+# Preenchimento de formulário
+```jsx
+const [user, setUser] = useState({ 
+	name: "", email: "", subject: "", message: ""
+});
+
+let name, value;
+
+const data = (e) => {
+	name = e.target.name;
+	value = e.target.value;
+	setUser({ ...user, [name]: value });
+}
+```
+
+```JSX
+<form method="POST">
+	<input
+		type="text"
+		name="name"
+		id="name"
+		value={user.name}
+		placeholder="Digite seu nome completo"
+		required
+		autoComplete="off"
+		onChange={(e) => data(e)}
+	/>
+	<input
+		type="email"
+		name="email"
+		id="email"
+		value={user.email}
+		placeholder="Digite seu endereço de e-mail"
+		required
+		autoComplete="off"
+		onChange={(e) => data(e)}
+	/>
+	<input
+		type="text"
+		name="subject"
+		id="subject"
+		value={user.subject}
+		placeholder="Informe o assunto do e-mail"
+		required
+		autoComplete="off"
+		onChange={(e) => data(e)}
+	/>
+	<textarea
+		name="message"
+		id="message"
+		value={user.message}
+		placeholder="Sua mensagem..."
+		required
+		autoComplete="off"
+		onChange={(e) => data(e)}
+	>
+	</textarea>
+</form>
+```
