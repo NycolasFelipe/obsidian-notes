@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "02b4b2a488f70ba7",
+        "id": "98125e0260a8b34e",
         "type": "tabs",
         "children": [
           {
-            "id": "ef5b18acea8e1638",
+            "id": "87e51a43bbb0b1e7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript/JavaScript.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a69743eb8f93f19e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Minhas Notas/CSS.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 259.5110321044922
   },
   "right": {
     "id": "26be158f40b17654",
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Minhas Notas/CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Minhas Notas/CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Minhas Notas/CSS.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -161,51 +140,51 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a69743eb8f93f19e",
+  "active": "87e51a43bbb0b1e7",
   "lastOpenFiles": [
-    "Minhas Notas/Minhas Notas.md",
-    "Minhas Notas/JavaScript.md",
-    "JavaScript/JavaScript.md",
-    "Webpack/Webpack.md",
     "Asynchronous JavaScript/AJAX Requests.md",
-    "React/React.md",
-    "React/Notas.md",
-    "React/Projetos/Full ecommerce website.md",
-    "React/Projetos",
+    "JavaScript/JavaScript.md",
+    "SQL/DELETE.md",
+    "SQL/SQL.md",
+    "SQL/NULL.md",
+    "SQL/CREATE_TABLE.md",
+    "SQL/AUTO_INCREMENT.md",
+    "SQL/Imagens/Pasted image 20240518140907.png",
+    "SQL/CREATE_INDEX.md",
+    "SQL/ALTER_TABLE.md",
+    "SQL/ALTER_DATABASE.md",
+    "SQL/CREATE_DATABASE.md",
+    "SQL/INSERT.md",
+    "SQL/SELECT.md",
+    "SQL/UPDATE.md",
+    "SQL/CONSTRAINTS.md",
+    "SQL/DEFAULT.md",
+    "SQL/CHECK.md",
+    "SQL/FOREIGN_KEY.md",
+    "SQL/PRIMARY_KEY.md",
+    "SQL/UNIQUE.md",
+    "SQL/NOT_NULL.md",
+    "SQL/Imagens/Pasted image 20240518140948.png",
+    "SQL/Imagens/Pasted image 20240518140935.png",
+    "SQL/AND,OR,NOT.md",
+    "SQL/Imagens/Pasted image 20240518125115.png",
+    "SQL/DROP_TABLE.md",
+    "SQL/Imagens/Pasted image 20240518125509.png",
+    "`CREATE DATABASE`.md",
     "Minhas Notas/CSS.md",
+    "Minhas Notas/Minhas Notas.md",
+    "React/Projetos",
     "Minhas Notas/Imagens",
     "Minhas Notas/Imagens/Pasted image 20240514172806.png",
-    "Windows/ActivateWindows.md",
-    "Windows/Windows.md",
-    "Windows/DNS.md",
-    "Windows/WirelessAutoconfig.md",
-    "Windows/DNS e Packet Loss.md",
-    "Windows/Disable and Enable Wireless Autoconfig.md",
     "Windows",
-    "SQL/BETWEEN.md",
-    "SQL/SELECT.md",
-    "SQL/AND,OR,NOT.md",
-    "SQL/IN.md",
     "SQL/Imagens/Pasted image 20240510124828.png",
     "SQL/Imagens/Pasted image 20240510125239.png",
     "SQL/Imagens/Pasted image 20240510125044.png",
-    "SQL/SQL.md",
-    "SQL/INSERT.md",
-    "SQL/UPDATE.md",
-    "SQL/DELETE.md",
-    "SQL/LIKE.md",
-    "SQL/NULL.md",
-    "SQL/MySQL.md",
     "SQL/Imagens/Pasted image 20240509163735.png",
-    "SQL/Imagens/Pasted image 20240509133158.png",
-    "SQL/Imagens/Pasted image 20240509133000.png",
-    "SQL/Imagens/Pasted image 20240509132506.png",
     "SQL/Imagens",
     "SQL",
     "Minhas Notas/CSS",
     "Minhas Notas",
-    "React/Imagens/Pasted image 20240507205900.png",
-    "React/Imagens/Pasted image 20240507203302.png",
     "React/Imagens",
     "React",
     "Projects/Full functional ecommerce website/Imagens",

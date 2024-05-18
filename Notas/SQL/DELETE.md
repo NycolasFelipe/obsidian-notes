@@ -1,6 +1,6 @@
 O comando `DELETE` é usado para **excluir registros** em uma tabela.
 
-*Nota*: **É extremamente importante prestar atenção** ao excluir os registros de uma tabela. **A cláusula `WHERE` é praticamente obrigatória**, pois sem ela **TODOS os registros** da tabela serão **apagados**.
+==**Observação**: **É extremamente importante prestar atenção** ao excluir os registros de uma tabela. **A cláusula `WHERE` é praticamente obrigatória**, pois sem ela **TODOS os registros** da tabela serão **apagados**.==
 ## Sintaxe
 ```SQL
 DELETE FROM Customers WHERE CustomerName='Alfreds Futterkiste';

@@ -1,6 +1,6 @@
 O comando `UPDATE` é usado para modificar registros em uma tabela.
 
-*Nota*: **É extremamente importante prestar atenção** ao atualizar os registros de uma tabela. **A cláusula `WHERE` é praticamente obrigatória**, pois sem ela **TODOS os registros** da tabela serão **atualizados**.
+==**Observação**: **É extremamente importante prestar atenção** ao atualizar os registros de uma tabela. **A cláusula `WHERE` é praticamente obrigatória**, pois sem ela **TODOS os registros** da tabela serão **atualizados**.==
 # Sintaxe
 
 Atualizar um único registro:

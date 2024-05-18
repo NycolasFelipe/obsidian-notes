@@ -14,12 +14,14 @@ SELECT * FROM Customers;
 - [`UPDATE`](UPDATE.md) - updates data in a database
 - [`DELETE`](DELETE.md) - deletes data from a database
 - [`INSERT INTO`](INSERT.md) - inserts new data into a database
-- `CREATE DATABASE` - creates a new database
-- `ALTER DATABASE` - modifies a database
-- `CREATE TABLE` - creates a new table
-- `ALTER TABLE` - modifies a table
-- `DROP TABLE` - deletes a table
-- `CREATE INDEX` - creates an index (search key)
-- `DROP INDEX` - deletes an index
-## Outros comandos SQL
+- [`CREATE DATABASE`](CREATE_DATABASE.md) - creates a new database
+- [`ALTER DATABASE`](ALTER_DATABASE.md) - modifies a database
+- [`CREATE TABLE`](CREATE_TABLE.md) - creates a new table
+- [`ALTER TABLE`](ALTER_TABLE.md) - modifies a table
+- [`DROP TABLE`](DROP_TABLE.md) - deletes a table
+- [`CREATE INDEX`](CREATE_INDEX) - creates an index (search key)
+# Constraints
+[Lista de restrições mais comuns](CONSTRAINTS.md)
+# Outros comandos SQL
 - [`NULL`](NULL.md) - a field with a NULL value is a field with no value
+- [`AUTO_INCREMENT`](AUTO_INCREMENT.md) - allows a unique number to be generated automatically when a new record is inserted into a table
