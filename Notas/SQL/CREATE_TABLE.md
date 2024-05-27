@@ -7,7 +7,7 @@ CREATE TABLE Persons(
 	FirstName varchar(255),
 	Address varchar(255),
 	City varchar(255)
-)
+);
 ```
 
 Agora a tabela **Persons** pode ser preenchida com dados utilizando o comando SQL [`INSERT INTO`](obsidian://open?vault=Notas&file=SQL%2FINSERT).

@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "98125e0260a8b34e",
+        "id": "036d34cbcb789c16",
         "type": "tabs",
         "children": [
           {
-            "id": "87e51a43bbb0b1e7",
+            "id": "38c0f247780e588a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Minhas Notas/JavaScript.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "SQL.md",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Minhas Notas/JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Minhas Notas/JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Minhas Notas/JavaScript.md"
+              }
             }
           }
         ]
@@ -140,39 +148,43 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "87e51a43bbb0b1e7",
+  "active": "38c0f247780e588a",
   "lastOpenFiles": [
-    "Asynchronous JavaScript/AJAX Requests.md",
-    "JavaScript/JavaScript.md",
-    "SQL/DELETE.md",
     "SQL/SQL.md",
-    "SQL/NULL.md",
-    "SQL/CREATE_TABLE.md",
-    "SQL/AUTO_INCREMENT.md",
-    "SQL/Imagens/Pasted image 20240518140907.png",
-    "SQL/CREATE_INDEX.md",
-    "SQL/ALTER_TABLE.md",
-    "SQL/ALTER_DATABASE.md",
-    "SQL/CREATE_DATABASE.md",
-    "SQL/INSERT.md",
     "SQL/SELECT.md",
+    "Minhas Notas/CSS.md",
     "SQL/UPDATE.md",
-    "SQL/CONSTRAINTS.md",
-    "SQL/DEFAULT.md",
-    "SQL/CHECK.md",
+    "SQL/ALTER_TABLE.md",
+    "SQL/INSERT.md",
     "SQL/FOREIGN_KEY.md",
+    "SQL/CONSTRAINTS.md",
     "SQL/PRIMARY_KEY.md",
+    "SQL/CREATE_TABLE.md",
+    "SQL/IN.md",
+    "Jest",
+    "SQL/DEFAULT.md",
+    "SQL/AUTO_INCREMENT.md",
+    "SQL/AND,OR,NOT.md",
+    "SQL/ALTER_DATABASE.md",
+    "Metodologia Ágil/Ágil Escalado.md",
+    "Spring Boot/Test Driven Development.md",
+    "Spring Boot/Spring Initializr.md",
+    "Spring Boot/Spring Boot.md",
+    "Spring Boot/API Contracts.md",
+    "React/Notas.md",
+    "React/Projetos/Full ecommerce website.md",
+    "Minhas Notas/JavaScript.md",
+    "PHP/Imagens",
+    "SQL/DELETE.md",
+    "Spring Boot/Imagens",
     "SQL/UNIQUE.md",
-    "SQL/NOT_NULL.md",
+    "SQL/NULL.md",
+    "Spring Boot/Imagens/Pasted image 20240519162738.png",
+    "SQL/Imagens/Pasted image 20240518140907.png",
     "SQL/Imagens/Pasted image 20240518140948.png",
     "SQL/Imagens/Pasted image 20240518140935.png",
-    "SQL/AND,OR,NOT.md",
     "SQL/Imagens/Pasted image 20240518125115.png",
-    "SQL/DROP_TABLE.md",
     "SQL/Imagens/Pasted image 20240518125509.png",
-    "`CREATE DATABASE`.md",
-    "Minhas Notas/CSS.md",
-    "Minhas Notas/Minhas Notas.md",
     "React/Projetos",
     "Minhas Notas/Imagens",
     "Minhas Notas/Imagens/Pasted image 20240514172806.png",
@@ -180,14 +192,10 @@
     "SQL/Imagens/Pasted image 20240510124828.png",
     "SQL/Imagens/Pasted image 20240510125239.png",
     "SQL/Imagens/Pasted image 20240510125044.png",
-    "SQL/Imagens/Pasted image 20240509163735.png",
     "SQL/Imagens",
     "SQL",
     "Minhas Notas/CSS",
     "Minhas Notas",
-    "React/Imagens",
-    "React",
-    "Projects/Full functional ecommerce website/Imagens",
     "Sem título 1.canvas",
     "Sem título.canvas"
   ]
