@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "036d34cbcb789c16",
+        "id": "9734eab864f6193b",
         "type": "tabs",
         "children": [
           {
-            "id": "38c0f247780e588a",
+            "id": "6c7ad308a1da75ec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Minhas Notas/JavaScript.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Minhas Notas/JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Minhas Notas/JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Minhas Notas/JavaScript.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,9 +140,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "38c0f247780e588a",
+  "active": "6c7ad308a1da75ec",
   "lastOpenFiles": [
+    "React/Custom Hooks.md",
+    "React/useCallback.md",
+    "React/React Hooks.md",
+    "React/useMemo.md",
+    "React/useReducer.md",
+    "React/React.md",
+    "React/useContext.md",
+    "React/useRef.md",
+    "React/useEffect.md",
+    "React/useState.md",
     "SQL/SQL.md",
+    "React/React CSS.md",
+    "React/Notas.md",
+    "Minhas Notas/JavaScript.md",
     "SQL/SELECT.md",
     "Minhas Notas/CSS.md",
     "SQL/UPDATE.md",
@@ -164,21 +169,8 @@
     "Jest",
     "SQL/DEFAULT.md",
     "SQL/AUTO_INCREMENT.md",
-    "SQL/AND,OR,NOT.md",
-    "SQL/ALTER_DATABASE.md",
-    "Metodologia Ágil/Ágil Escalado.md",
-    "Spring Boot/Test Driven Development.md",
-    "Spring Boot/Spring Initializr.md",
-    "Spring Boot/Spring Boot.md",
-    "Spring Boot/API Contracts.md",
-    "React/Notas.md",
-    "React/Projetos/Full ecommerce website.md",
-    "Minhas Notas/JavaScript.md",
     "PHP/Imagens",
-    "SQL/DELETE.md",
     "Spring Boot/Imagens",
-    "SQL/UNIQUE.md",
-    "SQL/NULL.md",
     "Spring Boot/Imagens/Pasted image 20240519162738.png",
     "SQL/Imagens/Pasted image 20240518140907.png",
     "SQL/Imagens/Pasted image 20240518140948.png",
