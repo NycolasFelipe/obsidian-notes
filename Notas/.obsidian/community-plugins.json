@@ -2,5 +2,6 @@
   "obsidian-excalidraw-plugin",
   "cm-editor-syntax-highlight-obsidian",
   "persistent-graph",
-  "quick-explorer"
+  "quick-explorer",
+  "webpage-html-export"
 ]

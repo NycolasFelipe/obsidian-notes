@@ -1,0 +1,757 @@
+{
+  "vaultName": "Notas",
+  "lastExport": 1718833320739,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Minhas Notas/Imagens/Pasted image 20240514172806.png",
+    "Minhas Notas/CSS.md",
+    "Minhas Notas/JavaScript.md",
+    "Minhas Notas/Minhas Notas.md",
+    "React/Imagens/Pasted image 20240507132354.png",
+    "React/Imagens/Pasted image 20240507132557.png",
+    "React/Imagens/Pasted image 20240507132941.png",
+    "React/Imagens/Pasted image 20240507202005.png",
+    "React/Imagens/Pasted image 20240507203302.png",
+    "React/Imagens/Pasted image 20240507205900.png",
+    "React/Custom Hooks.md",
+    "React/Notas.md",
+    "React/React.md",
+    "React/React CSS.md",
+    "React/React Hooks.md",
+    "React/useCallback.md",
+    "React/useContext.md",
+    "React/useEffect.md",
+    "React/useMemo.md",
+    "React/useReducer.md",
+    "React/useRef.md",
+    "React/useState.md",
+    "SQL/Imagens/Pasted image 20240509132506.png",
+    "SQL/Imagens/Pasted image 20240509133000.png",
+    "SQL/Imagens/Pasted image 20240509133158.png",
+    "SQL/Imagens/Pasted image 20240509163735.png",
+    "SQL/Imagens/Pasted image 20240510124828.png",
+    "SQL/Imagens/Pasted image 20240510125044.png",
+    "SQL/Imagens/Pasted image 20240510125239.png",
+    "SQL/Imagens/Pasted image 20240518125115.png",
+    "SQL/Imagens/Pasted image 20240518125509.png",
+    "SQL/Imagens/Pasted image 20240518140907.png",
+    "SQL/Imagens/Pasted image 20240518140935.png",
+    "SQL/Imagens/Pasted image 20240518140948.png",
+    "SQL/ALTER_DATABASE.md",
+    "SQL/ALTER_TABLE.md",
+    "SQL/AND,OR,NOT.md",
+    "SQL/AUTO_INCREMENT.md",
+    "SQL/BETWEEN.md",
+    "SQL/CHECK.md",
+    "SQL/CONSTRAINTS.md",
+    "SQL/CREATE_DATABASE.md",
+    "SQL/CREATE_INDEX.md",
+    "SQL/CREATE_TABLE.md",
+    "SQL/DEFAULT.md",
+    "SQL/DELETE.md",
+    "SQL/DROP_TABLE.md",
+    "SQL/FOREIGN_KEY.md",
+    "SQL/IN.md",
+    "SQL/INSERT.md",
+    "SQL/LIKE.md",
+    "SQL/MySQL.md",
+    "SQL/NOT_NULL.md",
+    "SQL/NULL.md",
+    "SQL/PRIMARY_KEY.md",
+    "SQL/SELECT.md",
+    "SQL/SQL.md",
+    "SQL/UNIQUE.md",
+    "SQL/UPDATE.md",
+    "TypeScript/Call Signature.md",
+    "TypeScript/Cheat Sheets.md",
+    "TypeScript/Classes.md",
+    "TypeScript/DOM & Type Casting.md",
+    "TypeScript/Enums.md",
+    "TypeScript/Functions.md",
+    "TypeScript/Generic Object Types.md",
+    "TypeScript/Interfaces.md",
+    "TypeScript/Object Types.md",
+    "TypeScript/Readonly Tuples.md",
+    "TypeScript/Render an HTML Template.md",
+    "TypeScript/Tuple Types.md",
+    "TypeScript/Type Aliases.md",
+    "TypeScript/Type Basics.md",
+    "TypeScript/TypeScript.md",
+    "TypeScript/TypeScript Classes.png",
+    "TypeScript/TypeScript Control Flow Analysis.png",
+    "TypeScript/TypeScript Interfaces.png",
+    "TypeScript/TypeScript Types.png",
+    "TypeScript/Union Types.md",
+    "TypeScript/Workflow & tsconfig.md",
+    "Webpack/Loaders.md",
+    "Webpack/Style Loader.md",
+    "Webpack/TypeScript + Webpack.md",
+    "Webpack/Webpack.md",
+    "Webpack/Webpack Config.md",
+    "Windows/ActivateWindows.md",
+    "Windows/DNS.md",
+    "Windows/Windows.md",
+    "Windows/WirelessAutoconfig.md",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg"
+  ],
+  "mainDependencies": [
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg"
+  ],
+  "fileInfo": {
+    "Minhas Notas/Imagens/Pasted image 20240514172806.png": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 64071,
+      "exportedPath": "Minhas Notas/Imagens/Pasted image 20240514172806.png",
+      "dependencies": []
+    },
+    "Minhas Notas/CSS.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 2031,
+      "exportedPath": "Minhas Notas/CSS.html",
+      "dependencies": []
+    },
+    "Minhas Notas/JavaScript.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 2921,
+      "exportedPath": "Minhas Notas/JavaScript.html",
+      "dependencies": []
+    },
+    "Minhas Notas/Minhas Notas.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 65,
+      "exportedPath": "Minhas Notas/Minhas Notas.html",
+      "dependencies": []
+    },
+    "React/Imagens/Pasted image 20240507132354.png": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 22889,
+      "exportedPath": "React/Imagens/Pasted image 20240507132354.png",
+      "dependencies": []
+    },
+    "React/Imagens/Pasted image 20240507132557.png": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 14308,
+      "exportedPath": "React/Imagens/Pasted image 20240507132557.png",
+      "dependencies": []
+    },
+    "React/Imagens/Pasted image 20240507132941.png": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 11168,
+      "exportedPath": "React/Imagens/Pasted image 20240507132941.png",
+      "dependencies": []
+    },
+    "React/Imagens/Pasted image 20240507202005.png": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 23689,
+      "exportedPath": "React/Imagens/Pasted image 20240507202005.png",
+      "dependencies": []
+    },
+    "React/Imagens/Pasted image 20240507203302.png": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 20807,
+      "exportedPath": "React/Imagens/Pasted image 20240507203302.png",
+      "dependencies": []
+    },
+    "React/Imagens/Pasted image 20240507205900.png": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 95346,
+      "exportedPath": "React/Imagens/Pasted image 20240507205900.png",
+      "dependencies": []
+    },
+    "React/Custom Hooks.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 0,
+      "exportedPath": "React/Custom Hooks.html",
+      "dependencies": []
+    },
+    "React/Notas.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 2935,
+      "exportedPath": "React/Notas.html",
+      "dependencies": []
+    },
+    "React/React.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 1424,
+      "exportedPath": "React/React.html",
+      "dependencies": []
+    },
+    "React/React CSS.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 2031,
+      "exportedPath": "React/React CSS.html",
+      "dependencies": []
+    },
+    "React/React Hooks.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 1517,
+      "exportedPath": "React/React Hooks.html",
+      "dependencies": []
+    },
+    "React/useCallback.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 3900,
+      "exportedPath": "React/useCallback.html",
+      "dependencies": []
+    },
+    "React/useContext.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 2790,
+      "exportedPath": "React/useContext.html",
+      "dependencies": []
+    },
+    "React/useEffect.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 1274,
+      "exportedPath": "React/useEffect.html",
+      "dependencies": []
+    },
+    "React/useMemo.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 2315,
+      "exportedPath": "React/useMemo.html",
+      "dependencies": []
+    },
+    "React/useReducer.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 1438,
+      "exportedPath": "React/useReducer.html",
+      "dependencies": []
+    },
+    "React/useRef.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 3766,
+      "exportedPath": "React/useRef.html",
+      "dependencies": []
+    },
+    "React/useState.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 2403,
+      "exportedPath": "React/useState.html",
+      "dependencies": []
+    },
+    "SQL/Imagens/Pasted image 20240509132506.png": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 24901,
+      "exportedPath": "SQL/Imagens/Pasted image 20240509132506.png",
+      "dependencies": []
+    },
+    "SQL/Imagens/Pasted image 20240509133000.png": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 13701,
+      "exportedPath": "SQL/Imagens/Pasted image 20240509133000.png",
+      "dependencies": []
+    },
+    "SQL/Imagens/Pasted image 20240509133158.png": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 6438,
+      "exportedPath": "SQL/Imagens/Pasted image 20240509133158.png",
+      "dependencies": []
+    },
+    "SQL/Imagens/Pasted image 20240509163735.png": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 4504,
+      "exportedPath": "SQL/Imagens/Pasted image 20240509163735.png",
+      "dependencies": []
+    },
+    "SQL/Imagens/Pasted image 20240510124828.png": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 4054,
+      "exportedPath": "SQL/Imagens/Pasted image 20240510124828.png",
+      "dependencies": []
+    },
+    "SQL/Imagens/Pasted image 20240510125044.png": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 4534,
+      "exportedPath": "SQL/Imagens/Pasted image 20240510125044.png",
+      "dependencies": []
+    },
+    "SQL/Imagens/Pasted image 20240510125239.png": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 4158,
+      "exportedPath": "SQL/Imagens/Pasted image 20240510125239.png",
+      "dependencies": []
+    },
+    "SQL/Imagens/Pasted image 20240518125115.png": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 21599,
+      "exportedPath": "SQL/Imagens/Pasted image 20240518125115.png",
+      "dependencies": []
+    },
+    "SQL/Imagens/Pasted image 20240518125509.png": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 13882,
+      "exportedPath": "SQL/Imagens/Pasted image 20240518125509.png",
+      "dependencies": []
+    },
+    "SQL/Imagens/Pasted image 20240518140907.png": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 10085,
+      "exportedPath": "SQL/Imagens/Pasted image 20240518140907.png",
+      "dependencies": []
+    },
+    "SQL/Imagens/Pasted image 20240518140935.png": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 6967,
+      "exportedPath": "SQL/Imagens/Pasted image 20240518140935.png",
+      "dependencies": []
+    },
+    "SQL/Imagens/Pasted image 20240518140948.png": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 6347,
+      "exportedPath": "SQL/Imagens/Pasted image 20240518140948.png",
+      "dependencies": []
+    },
+    "SQL/ALTER_DATABASE.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 763,
+      "exportedPath": "SQL/ALTER_DATABASE.html",
+      "dependencies": []
+    },
+    "SQL/ALTER_TABLE.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 704,
+      "exportedPath": "SQL/ALTER_TABLE.html",
+      "dependencies": []
+    },
+    "SQL/AND,OR,NOT.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 512,
+      "exportedPath": "SQL/AND,OR,NOT.html",
+      "dependencies": []
+    },
+    "SQL/AUTO_INCREMENT.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 1099,
+      "exportedPath": "SQL/AUTO_INCREMENT.html",
+      "dependencies": []
+    },
+    "SQL/BETWEEN.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 1233,
+      "exportedPath": "SQL/BETWEEN.html",
+      "dependencies": []
+    },
+    "SQL/CHECK.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 1629,
+      "exportedPath": "SQL/CHECK.html",
+      "dependencies": []
+    },
+    "SQL/CONSTRAINTS.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 790,
+      "exportedPath": "SQL/CONSTRAINTS.html",
+      "dependencies": []
+    },
+    "SQL/CREATE_DATABASE.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 580,
+      "exportedPath": "SQL/CREATE_DATABASE.html",
+      "dependencies": []
+    },
+    "SQL/CREATE_INDEX.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 1094,
+      "exportedPath": "SQL/CREATE_INDEX.html",
+      "dependencies": []
+    },
+    "SQL/CREATE_TABLE.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 1408,
+      "exportedPath": "SQL/CREATE_TABLE.html",
+      "dependencies": []
+    },
+    "SQL/DEFAULT.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 865,
+      "exportedPath": "SQL/DEFAULT.html",
+      "dependencies": []
+    },
+    "SQL/DELETE.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 649,
+      "exportedPath": "SQL/DELETE.html",
+      "dependencies": []
+    },
+    "SQL/DROP_TABLE.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 392,
+      "exportedPath": "SQL/DROP_TABLE.html",
+      "dependencies": []
+    },
+    "SQL/FOREIGN_KEY.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 2161,
+      "exportedPath": "SQL/FOREIGN_KEY.html",
+      "dependencies": []
+    },
+    "SQL/IN.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 2239,
+      "exportedPath": "SQL/IN.html",
+      "dependencies": []
+    },
+    "SQL/INSERT.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 671,
+      "exportedPath": "SQL/INSERT.html",
+      "dependencies": []
+    },
+    "SQL/LIKE.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 1361,
+      "exportedPath": "SQL/LIKE.html",
+      "dependencies": []
+    },
+    "SQL/MySQL.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 2205,
+      "exportedPath": "SQL/MySQL.html",
+      "dependencies": []
+    },
+    "SQL/NOT_NULL.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 596,
+      "exportedPath": "SQL/NOT_NULL.html",
+      "dependencies": []
+    },
+    "SQL/NULL.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 698,
+      "exportedPath": "SQL/NULL.html",
+      "dependencies": []
+    },
+    "SQL/PRIMARY_KEY.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 1109,
+      "exportedPath": "SQL/PRIMARY_KEY.html",
+      "dependencies": []
+    },
+    "SQL/SELECT.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 4572,
+      "exportedPath": "SQL/SELECT.html",
+      "dependencies": []
+    },
+    "SQL/SQL.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 1501,
+      "exportedPath": "SQL/SQL.html",
+      "dependencies": []
+    },
+    "SQL/UNIQUE.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 1763,
+      "exportedPath": "SQL/UNIQUE.html",
+      "dependencies": []
+    },
+    "SQL/UPDATE.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 719,
+      "exportedPath": "SQL/UPDATE.html",
+      "dependencies": []
+    },
+    "TypeScript/Call Signature.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 599,
+      "exportedPath": "TypeScript/Call Signature.html",
+      "dependencies": []
+    },
+    "TypeScript/Cheat Sheets.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 127,
+      "exportedPath": "TypeScript/Cheat Sheets.html",
+      "dependencies": []
+    },
+    "TypeScript/Classes.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 2032,
+      "exportedPath": "TypeScript/Classes.html",
+      "dependencies": []
+    },
+    "TypeScript/DOM & Type Casting.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 1171,
+      "exportedPath": "TypeScript/DOM & Type Casting.html",
+      "dependencies": []
+    },
+    "TypeScript/Enums.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 1536,
+      "exportedPath": "TypeScript/Enums.html",
+      "dependencies": []
+    },
+    "TypeScript/Functions.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 1706,
+      "exportedPath": "TypeScript/Functions.html",
+      "dependencies": []
+    },
+    "TypeScript/Generic Object Types.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 2809,
+      "exportedPath": "TypeScript/Generic Object Types.html",
+      "dependencies": []
+    },
+    "TypeScript/Interfaces.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 1390,
+      "exportedPath": "TypeScript/Interfaces.html",
+      "dependencies": []
+    },
+    "TypeScript/Object Types.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 1168,
+      "exportedPath": "TypeScript/Object Types.html",
+      "dependencies": []
+    },
+    "TypeScript/Readonly Tuples.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 505,
+      "exportedPath": "TypeScript/Readonly Tuples.html",
+      "dependencies": []
+    },
+    "TypeScript/Render an HTML Template.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 857,
+      "exportedPath": "TypeScript/Render an HTML Template.html",
+      "dependencies": []
+    },
+    "TypeScript/Tuple Types.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 2924,
+      "exportedPath": "TypeScript/Tuple Types.html",
+      "dependencies": []
+    },
+    "TypeScript/Type Aliases.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 716,
+      "exportedPath": "TypeScript/Type Aliases.html",
+      "dependencies": []
+    },
+    "TypeScript/Type Basics.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 1971,
+      "exportedPath": "TypeScript/Type Basics.html",
+      "dependencies": []
+    },
+    "TypeScript/TypeScript.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 465,
+      "exportedPath": "TypeScript/TypeScript.html",
+      "dependencies": []
+    },
+    "TypeScript/TypeScript Classes.png": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 161461,
+      "exportedPath": "TypeScript/TypeScript Classes.png",
+      "dependencies": []
+    },
+    "TypeScript/TypeScript Control Flow Analysis.png": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 139423,
+      "exportedPath": "TypeScript/TypeScript Control Flow Analysis.png",
+      "dependencies": []
+    },
+    "TypeScript/TypeScript Interfaces.png": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 119251,
+      "exportedPath": "TypeScript/TypeScript Interfaces.png",
+      "dependencies": []
+    },
+    "TypeScript/TypeScript Types.png": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 582565,
+      "exportedPath": "TypeScript/TypeScript Types.png",
+      "dependencies": []
+    },
+    "TypeScript/Union Types.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 639,
+      "exportedPath": "TypeScript/Union Types.html",
+      "dependencies": []
+    },
+    "TypeScript/Workflow & tsconfig.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 462,
+      "exportedPath": "TypeScript/Workflow & tsconfig.html",
+      "dependencies": []
+    },
+    "Webpack/Loaders.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 1125,
+      "exportedPath": "Webpack/Loaders.html",
+      "dependencies": []
+    },
+    "Webpack/Style Loader.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 750,
+      "exportedPath": "Webpack/Style Loader.html",
+      "dependencies": []
+    },
+    "Webpack/TypeScript + Webpack.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 1865,
+      "exportedPath": "Webpack/TypeScript + Webpack.html",
+      "dependencies": []
+    },
+    "Webpack/Webpack.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 1291,
+      "exportedPath": "Webpack/Webpack.html",
+      "dependencies": []
+    },
+    "Webpack/Webpack Config.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 916,
+      "exportedPath": "Webpack/Webpack Config.html",
+      "dependencies": []
+    },
+    "Windows/ActivateWindows.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 2035,
+      "exportedPath": "Windows/ActivateWindows.html",
+      "dependencies": []
+    },
+    "Windows/DNS.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 241,
+      "exportedPath": "Windows/DNS.html",
+      "dependencies": []
+    },
+    "Windows/Windows.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 151,
+      "exportedPath": "Windows/Windows.html",
+      "dependencies": []
+    },
+    "Windows/WirelessAutoconfig.md": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 394,
+      "exportedPath": "Windows/WirelessAutoconfig.html",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/media/3d6c1bdc4d87cde4de67.svg": {
+      "modifiedTime": 1718833320739,
+      "sourceSize": 279,
+      "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
+      "dependencies": []
+    }
+  }
+}

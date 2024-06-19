@@ -3,7 +3,7 @@ Alguns exemplos de efeitos são: **fetch de dados, atualização do DOM e tempor
 `useEffect` aceita dois argumentos. O segundo argumento é opcional.
 
 `useEffect(<função>, <dependência>)`
-# Usos
+## Usos
 Existem 3 principais formas de se utilizar esse hook:
 
 **I. Nenhuma dependência:**
@@ -27,7 +27,7 @@ useEffect(() => {
 	//And any time any dependency value changes
 }, [prop, state]);
 ```
-# Effect Cleanup
+## Effect Cleanup
 **Timeouts, subscriptions, event listeners**, e outros efeitos que não são mais necessários devem ser descartados.
 Fazemos isso incluindo uma **função de retorno no final do Hook** `useEffect`.
 ## Exemplo:

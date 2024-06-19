@@ -55,9 +55,6 @@ const Header = () => {
 	);
 }
 ```
-
-
-
 ## CSS Stylesheet
 Você pode escrever seu **estilo CSS em um arquivo separado**, salvar o arquivo com a extensão `.css` e **importá-lo em seu aplicativo**.
 ## CSS Modules

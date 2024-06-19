@@ -1,10 +1,10 @@
 O Hook `useState` nos permite **monitorar o estado** em um componente de função.
-# Import `useState`
+## Import `useState`
 Na parte superior do seu componente, **importe o Hook useState**.
 ```jsx
 import { useState } from "react";
 ```
-# Initialize `useState`
+## Initialize `useState`
 Inicializamos nosso estado chamando `useState` em nosso componente de função.
 `useState` aceita um **estado inicial** e retorna **dois valores**:
 - O estado atual.
@@ -24,7 +24,7 @@ export const FavoriteColor = () => {
 
 <br />
 
-# Read State
+## Read State
 Agora podemos incluir nosso estado em qualquer lugar do nosso componente.
 ```jsx
 import { useState } from "react";
@@ -34,7 +34,7 @@ export const FavoriteColor = () => {
   return <h1>My favorite color is {color}</h1>
 }
 ```
-# Update State
+## Update State
 Para atualizar nosso estado, **usamos nossa função de atualização de estado**.
 ```jsx
 import { useState } from "react";
@@ -52,9 +52,9 @@ export const FavoriteColor = () => {
 	)
 }
 ```
-# What Can State Hold
+## What Can State Hold
 O Hook `useState` pode ser usado para rastrear **strings, números, booleanos, arrays, objetos** e qualquer combinação destes.
-# Updating Objects and Arrays in State
+## Updating Objects and Arrays in State
 Quando o **estado é atualizado**, **todo o estado é substituído**. Se chamarmos apenas `setCar({color: "blue"})`, isso removeria a marca, modelo e ano do nosso estado.
 
 Podemos usar o **spread operator**, do JavaScript, para nos ajudar. Por exemplo:

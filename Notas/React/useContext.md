@@ -1,6 +1,6 @@
 React Context é uma forma de **gerenciar o estado globalmente**.
 Pode ser usado junto com o Hook `useState` para **compartilhar o estado entre componentes profundamente aninhados** com mais facilidade.
-# O Problema
+## O Problema
 O estado deve ser mantido pelo componente pai mais alto na pilha que requer acesso ao estado. Para ilustrar, suponhamos que temos muitos componentes aninhadose que os componentes **na parte superior e inferior da pilha precisam de acesso ao estado**.
 
 Para fazer isso sem Contexto, precisaremos **passar o estado como `props` através de cada componente** aninhado. Isso é chamado de **"prop drilling"**.
@@ -43,7 +43,7 @@ function Component5({ user }) {
 	);
 }
 ```
-# A Solução
+## A Solução
 A solução é criar contexto.
 Para criar contexto, você deve importar `createContext` e inicializá-lo:
 ```jsx
@@ -52,7 +52,7 @@ const UserContext = createContext();
 ```
 
 Em seguida, usaremos o **Context Provider** para agrupar **a árvore de componentes** que precisam do contexto de estado.
-## Context Provider
+### Context Provider
 Envolva os componentes filhos no **Context Provider** e forneça o valor do estado.
 ```jsx
 function Component1() {
@@ -66,7 +66,7 @@ function Component1() {
 }
 ```
 Agora todos os componentes desta árvore terão acesso ao contexto do usuário.
-### Múltiplos valores
+#### Múltiplos valores
 ```jsx
 function Component1() {
 	const [user, setUser] = useState("Jesse Hall");
@@ -78,7 +78,7 @@ function Component1() {
 	);
 }
 ```
-## Use the `useContext` Hook
+### Use the `useContext` Hook
 Para usar o Context em um componente filho, precisamos acessá-lo usando o **Hook useContext.** Dessa forma, podemos acessar o contexto do usuário em todos os componentes:
 ```jsx
 import { useState, createContext, useContext } from "react";

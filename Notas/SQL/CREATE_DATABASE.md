@@ -11,5 +11,5 @@ O comando `DROP DATABASE` serve **para excluir um banco de dados** existente. Po
 DROP DATABASE testDB;
 ```
 
-É preciso ter **muito cuidado** ao utilizar esse comando, pois é**impossível recuperar as informações após a exclusão.****
+É preciso ter **muito cuidado** ao utilizar esse comando, pois é **impossível recuperar as informações após a exclusão.****
 

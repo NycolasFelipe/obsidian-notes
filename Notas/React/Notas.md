@@ -1,4 +1,4 @@
-# Iniciando um projeto básico no React
+## Iniciando um projeto básico no React
 ## Comece com um protótipo inicial
 ```cmd
 npx create-react-app project
@@ -19,20 +19,20 @@ Dentro de `App.js` utilizar o atalho `rafce` _React Arrow Function Export Co
 ![[Pasted image 20240507132941.png]]
 
 ---
-# Criando rotas
+## Criando rotas
 [Guia para criar rotas](https://v5.reactrouter.com/web/guides/quick-start)
-## Instale o pacote de rotas do react
+### Instale o pacote de rotas do react
 ```cmd
  npm install react-router-dom
 ```
-## Inicie uma rota básica dentro do arquivo `index.js`
+### Inicie uma rota básica dentro do arquivo `index.js`
 ![[Pasted image 20240507203302.png]]
-## Utilizando links
+### Utilizando links
 Use o componente do react `Link` para redirecionar o usuário:
 ```jsx
   <Link to="/">Home</Link>
 ```
-## Criando um gerenciador de rotas
+### Criando um gerenciador de rotas
 `Routing.jsx`
 ```jsx
 import React from "react";
@@ -54,13 +54,13 @@ const Routing = () => {
 export default Routing;
 ```
 ---
-# Utilizando ícones react
+## React Icons
 [React Icons](https://react-icons.github.io/react-icons/)
-## Installation (for standard modern project)
+### Installation (for standard modern project)
 ```cmd
 npm install react-icons --save
 ```
-## Usage
+### Usage
 ```jsx
 import { FaBeer } from 'react-icons/fa';
 
@@ -70,18 +70,14 @@ const App = () => {
 ```
 
 ---
-# Autenticação com Auth0
+## Autenticação com Auth0
 [Link para o site oficial](https://auth0.com/)
-## Crie uma nova instância para a aplicação
+### Crie uma nova instância para a aplicação
 ![[Pasted image 20240507205900.png]]
  Em seguida, siga os passos descritos na aba `quickstart`
-
----
-
-# Slick slider
+## Slick slider
 Slick slider para react, [link](https://react-slick.neostack.com/docs/get-started)
-
-# Preenchimento de formulário
+## \[Snippet] Preenchimento de formulário
 ```jsx
 const [user, setUser] = useState({ 
 	name: "", email: "", subject: "", message: ""
