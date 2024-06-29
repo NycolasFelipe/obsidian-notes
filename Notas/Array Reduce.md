@@ -1,4 +1,3 @@
-# Array Reduce
 ## Exemplo de uso básico
 ```js
 const items = [
@@ -80,26 +79,4 @@ Nesse código, utilizamos o reduce para **contar o número de ocorrências** de 
 	red: 3,
 	blue: 1
 }
-```
-
-# Search when press Enter
-```js
-const searchOnEnter = (e) => {
-	if (e.key === "Enter") {
-		search(term);
-		e.target.blur();
-	}
-}
-```
-
-```html
-<input
-	type="text"
-	name="searchBox"
-	id="searchBox"
-	placeholder="Procure um produto..."
-	autoComplete="off"
-	onChange="(e) => setSearch(e.target.value)"
-	onKeyUp="(e) => searchOnEnter(e)"
-/>
 ```
