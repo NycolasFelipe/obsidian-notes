@@ -1,4 +1,4 @@
-# Notas JavaScript
+## Notas JavaScript
 [Link](JavaScript.md)
-# Notas CSS
+## Notas CSS
 [Link](CSS.md)
