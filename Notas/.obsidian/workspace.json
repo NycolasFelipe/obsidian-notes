@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6dc4c2f37ee511c9",
+        "id": "fd818216536f6f66",
         "type": "tabs",
         "children": [
           {
-            "id": "0c08d32de44e9941",
+            "id": "3f93abd1ac549724",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Conventional Commits/Conventional Commits.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5110321044922,
-    "collapsed": true
+    "width": 259.5110321044922
   },
   "right": {
     "id": "26be158f40b17654",
@@ -86,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conventional Commits/Conventional Commits.md",
+                "file": "Storybook/Stories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conventional Commits/Conventional Commits.md",
+                "file": "Storybook/Stories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conventional Commits/Conventional Commits.md"
+                "file": "Storybook/Stories.md"
               }
             }
           }
@@ -150,25 +145,32 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "0c08d32de44e9941",
+  "active": "4215bec55c581a8b",
   "lastOpenFiles": [
-    "Pasted image 20240705153523.png",
+    "Storybook",
+    "Minhas Notas/JavaScript/JavaScript.md",
+    "Minhas Notas/JavaScript/Search when press Enter.md",
+    "Minhas Notas/JavaScript/Replace backslashes.md",
+    "Minhas Notas/JavaScript/Array.prototype.flat().md",
     "Conventional Commits/Conventional Commits.md",
+    "Minhas Notas/CSS/CSS.md",
+    "Minhas Notas/JavaScript/Get URL Search Param.md",
+    "Minhas Notas/JavaScript/Array Reduce.md",
+    "Minhas Notas/JavaScript/Array.prototype.reduce().md",
+    "Storybook/Stories.md",
+    "Storybook/Storybook.md",
+    "Minhas Notas/Minhas Notas.md",
+    "Pasted image 20240705153523.png",
     "Pasted image 20240705153333.png",
     "Pasted image 20240705153435.png",
-    "Minhas Notas/JavaScript/JavaScript.md",
     "Conventional Commits",
-    "Minhas Notas/Minhas Notas.md",
-    "Minhas Notas/JavaScript/Array Reduce.md",
     "React/useCallback.md",
-    "Minhas Notas/CSS/CSS.md",
     "React/useRef.md",
     "React/useEffect.md",
     "React/React Hooks.md",
     "React/React.md",
     "Minhas Notas/CSS/Flex space-between last item.md",
     "React/Notas.md",
-    "Minhas Notas/JavaScript/Search when press Enter.md",
     "Minhas Notas/JavaScript",
     "Minhas Notas/CSS/Adicionar reticências a um texto.md",
     "Minhas Notas/CSS/Change SVGs color.md",
@@ -177,12 +179,6 @@
     "SQL/DEFAULT.md",
     "SQL/CONSTRAINTS.md",
     "SQL/SQL.md",
-    "SQL/ALTER_TABLE.md",
-    "SQL/CREATE_TABLE.md",
-    "React/React CSS.md",
-    "Windows/WirelessAutoconfig.md",
-    "Windows/Windows.md",
-    "Windows/DNS.md",
     "notas/Gemfile",
     "notas/_posts/2024-06-19-welcome-to-jekyll.markdown",
     "notas/_config.yml",
